@@ -72,3 +72,4 @@ PS C:\Users\User\dev-workstation-mission>
 - WSL 설치 및 재부팅 완료
 - Docker Desktop 설치 완료
 - `docker run hello-world` 실행 성공!
+오타 수정 테스트
