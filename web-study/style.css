@@ -46,3 +46,7 @@ line-height: 1.5;}
     display: flex;
     justify-content: space-between;
 }
+.dark-mode {
+    background-color: #222222; /* 어두운 배경 */
+    color: #ffffff; /* 흰색 글자 */
+}
