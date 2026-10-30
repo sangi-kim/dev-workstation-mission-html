@@ -70,3 +70,7 @@ button:hover {
   transform: scale(1.1); /* 크기를 1.1배로 키우기 */
   cursor: pointer; /* 마우스 커서를 손가락 모양으로! */
 }
+.dark-theme {
+  background-color: #222222; /* 배경을 어두운 회색으로 */
+  color: white; /* 글자는 흰색으로 */
+}
