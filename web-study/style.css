@@ -74,3 +74,17 @@ button:hover {
   background-color: #222222; /* 배경을 어두운 회색으로 */
   color: white; /* 글자는 흰색으로 */
 }
+@media (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
