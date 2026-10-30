@@ -1,0 +1,23 @@
+/* 웹페이지 전체 배경색 */
+body {
+    background-color: #FFFFE0; 
+}
+
+/* 가장 큰 제목 글자색 */
+h1 {
+    color: blue;
+    text-align: center;
+}
+h2 {color: darkgreen;
+border-bottom: 2px solid lightgray;
+padding-bottom: 5px;}
+li {font-size: 18px;
+line-height: 1.5;}
+.point-btn {
+    background-color: #ff7f50; /* 예쁜 산호색(코랄) 배경 */
+    color: white;              /* 글자는 깔끔한 흰색 */
+    padding: 10px 20px;        /* 안쪽 여백(위아래 10px, 양옆 20px) -> 버튼이 통통해져요! */
+    border: none;              /* 촌스러운 기본 테두리 없애기 */
+    border-radius: 8px;        /* 모서리를 둥글게 깎아주기 */
+    cursor: pointer;           /* 마우스를 올리면 손가락 모양으로 변신! */
+}
